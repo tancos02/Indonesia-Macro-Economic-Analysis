@@ -1,5 +1,7 @@
 # Ignore the whole folder
+A. Data Source/A.1. SEKI (Bank Indonesia)/
 A. Data Source/A.2. SSKI (Bank Indonesia)/
 
 # But do not ignore any .zip files in that folder
+!A. Data Source/A.1. SEKI (Bank Indonesia)/*.zip
 !A. Data Source/A.2. SSKI (Bank Indonesia)/*.zip
